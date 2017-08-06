@@ -15,3 +15,4 @@ Es un blog con el fin de transmitir conocimientos sobre Inteligencia Artificial,
 
 [Licencia]
 
+[Agradecimientos]
